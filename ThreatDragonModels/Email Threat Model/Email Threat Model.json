@@ -1428,7 +1428,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1442,7 +1442,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              ""
             ],
             "id": "6b7c0da2-e31d-4d5e-9d62-2465d0862225",
             "source": {
